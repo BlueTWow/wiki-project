@@ -1,1 +1,1 @@
-Dit is een ander conflict.
+Hier is een ander conflict.
