@@ -1,1 +1,1 @@
-Dit is een poging voor een conflict
+Ik probeer een conflict te creëen.
