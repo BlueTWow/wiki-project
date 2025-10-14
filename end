@@ -1,0 +1,41 @@
+[33mcommit de88a5b4cfa3516d522d058f99016143ba098de4[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mitems-update[m[33m, [m[1;31morigin/items-update[m[33m)[m
+Author: BlueTWow <tainy.verbeke@gmail.com>
+Date:   Tue Oct 7 15:50:05 2025 +0200
+
+    Dit is een nieuwe poging voor een conflict.
+
+[33mcommit 08256f51a264ee3dcc54d9dd86f14bc9415ffb0e[m[33m ([m[1;32mmaster[m[33m)[m
+Author: BlueTWow <tainy.verbeke@gmail.com>
+Date:   Tue Oct 7 15:45:46 2025 +0200
+
+    Dit is een conflict
+
+[33mcommit f0a09f9d2171a403546bd200e95a4e80e53869d9[m
+Author: BlueTWow <tainy.verbeke@gmail.com>
+Date:   Tue Oct 7 15:38:51 2025 +0200
+
+    Een nieuwe poging voor een conflict
+
+[33mcommit 2b5fa1dc0b5401eb4a2ba62326043c6366dc5da4[m
+Author: BlueTWow <tainy.verbeke@gmail.com>
+Date:   Tue Oct 7 15:31:11 2025 +0200
+
+    Conflict simuleren
+
+[33mcommit 2669bde3bc91503e022700d78e8a28ff07f9ecf8[m
+Author: BlueTWow <tainy.verbeke@gmail.com>
+Date:   Tue Oct 7 15:26:40 2025 +0200
+
+    Dit is een item update commit
+
+[33mcommit baed9bfc3de7743dd5e3ce7d080aca6052a8d1dc[m
+Author: BlueTWow <tainy.verbeke@gmail.com>
+Date:   Tue Sep 30 15:48:22 2025 +0200
+
+    Content + about toegevoegd.
+
+[33mcommit d46073fc64af46c17132ef41c1e41db1d4aa3b1e[m
+Author: BlueTWow <tainy.verbeke@gmail.com>
+Date:   Tue Sep 30 15:42:45 2025 +0200
+
+    Index added.
